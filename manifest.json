@@ -1,0 +1,12 @@
+{
+  "name": "Class Tab",
+  "short_name": "Class Tab",
+  "description": "Replace the new tab with links to resources students need for class.",
+  "version": "0.1",
+  "chrome_url_overrides": {
+    "newtab": "classtab.html"
+  },
+  "author": "Nathan Bailey",
+  "homepage_url": "https://dnbailey.github.io/",
+  "manifest_version": 2
+}
