@@ -3,6 +3,10 @@
   "short_name": "Class Tab",
   "description": "Replace the new tab with links to resources students need for class.",
   "version": "0.1",
+  "icons": {
+    "19": "icon.png",
+    "128": "icon-128.png"
+  },
   "chrome_url_overrides": {
     "newtab": "classtab.html"
   },
